@@ -314,7 +314,7 @@ int main(void)
 
 ### Example 1: Basic File Reading
 
-```c
+```
 // test.txt content:
 // Hello World
 // This is line 2
