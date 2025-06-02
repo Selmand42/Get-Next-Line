@@ -799,7 +799,7 @@ for i in {1..1000}; do echo "This is line number $i"; done > large.txt
 
 ### Comprehensive Test Program
 
-```c
+```
 #include "get_next_line.h"
 
 void test_file(char *filename)
