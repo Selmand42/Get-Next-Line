@@ -164,7 +164,7 @@ gcc -Wall -Wextra -Werror -D BUFFER_SIZE=42 get_next_line_bonus.c get_next_line_
 
 ### Basic Usage
 
-```c
+```
 #include "get_next_line.h"
 #include <fcntl.h>
 #include <stdio.h>
